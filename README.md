@@ -30,7 +30,7 @@ Anthony Li
 | [奇货系统]()        | 一个电商管理系统，使用 vue1.x + 团队开发的 UI组件库  |
 | [火眼系统]()        | 查看公司各个业务数据指标<br> 使用 vue1.x + echart + 团队开发的 UI组件库  |
 | [兑吧开发者管理平台]()    | 兑吧官网和开发者使用的平台<br> 功能有H5页面配置商品，创建各类活动工具，上架优惠券商品等<br> 使用技术 vue1.x + echart + 团队开发的 UI组件库 |
-| [lexis-asone]()        | 法律搜索库，查询日本各类法律 <br> 使用技术 bankbone + jQuery + seajs + handlebar |
+| [lexis-asone](./docs/lexis/README.md)        | 法律搜索库，查询日本各类法律 <br> 使用技术 bankbone + jQuery + seajs + handlebar |
 | [供应商管理系统SRM]()    | 传统行业给供应商使用的系统，使用 Java SSH2 + jQuery |
 
 #### 活动 H5页面
